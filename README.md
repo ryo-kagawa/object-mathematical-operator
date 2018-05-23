@@ -14,7 +14,7 @@ var calcObject = aObject.mathematicalOperation(
   ["*", "paramE"],
   ["/", "paramF"]
 );
-cosole.log(calcObject);
+console.log(calcObject);
 ~~~
 ~~~
 {
